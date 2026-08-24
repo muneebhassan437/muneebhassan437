@@ -3,9 +3,6 @@
 </p>
 
 <h1 align="center">Hi, I'm Muneeb 👋</h1>
-<p align="center">
-  Comp Sci @ McMaster University &nbsp;|&nbsp; prev Data Analyst @ RBC
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muneeb-hassan-725409289/">
@@ -53,7 +50,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <i>Let's connect — always open to interesting projects and conversations!</i>
-</p>
