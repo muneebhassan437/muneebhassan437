@@ -1,0 +1,24 @@
+<svg width="680" height="220" viewBox="0 0 680 220" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bgGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#0EA5E9"/>
+<stop offset="50%" stop-color="#6366F1"/>
+<stop offset="100%" stop-color="#D946EF"/>
+</linearGradient>
+</defs>
+<rect x="0" y="0" width="680" height="220" rx="16" fill="url(#bgGrad2)"/>
+<path d="M0 170 C 120 130, 240 200, 400 160 S 620 150, 680 175 L 680 220 L 0 220 Z" fill="#ffffff" opacity="0.10"/>
+<path d="M0 190 C 140 155, 260 215, 420 180 S 600 170, 680 195 L 680 220 L 0 220 Z" fill="#ffffff" opacity="0.14"/>
+<circle cx="600" cy="45" r="4" fill="#ffffff" opacity="0.5"/>
+<circle cx="622" cy="60" r="4" fill="#ffffff" opacity="0.5"/>
+<circle cx="644" cy="45" r="4" fill="#ffffff" opacity="0.5"/>
+<circle cx="600" cy="75" r="4" fill="#ffffff" opacity="0.5"/>
+<circle cx="622" cy="90" r="4" fill="#ffffff" opacity="0.5"/>
+<circle cx="644" cy="75" r="4" fill="#ffffff" opacity="0.5"/>
+<circle cx="600" cy="105" r="4" fill="#ffffff" opacity="0.5"/>
+<circle cx="622" cy="120" r="4" fill="#ffffff" opacity="0.5"/>
+<circle cx="644" cy="105" r="4" fill="#ffffff" opacity="0.5"/>
+<text x="60" y="100" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#ffffff">Muneeb Hassan</text>
+<text x="60" y="136" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#ffffff" opacity="0.92">Comp Sci @ McMaster  |  prev Data Analyst @ RBC</text>
+<rect x="60" y="160" width="46" height="4" rx="2" fill="#ffffff" opacity="0.6"/>
+</svg>
